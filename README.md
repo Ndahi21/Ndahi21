@@ -5,7 +5,7 @@
   <br>Interested in turning real-world data into actionable insights through Machine Learning and Deep 
   <br>Learning to build intelligent systems to discover and predict trends, and have those findings on display
 </p> 
-<p>   
+<p>    
   Currently a Computer Science Undergrad Student from the University of Houston Main Campus.
   <br>Looking to collaborate on eye-opening projects 
 </p> 
