@@ -8,7 +8,7 @@
 <p>     
   Currently a Computer Science Undergrad Student from the University of Houston Main Campus.
   <br>Looking to collaborate on eye-opening projects 
-</p> 
+</p>  
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
      alt="Gmail" 
